@@ -1,0 +1,5 @@
+LOAD "allfb_tagged.data"
+select "CC"
+update color BY FA IN "CC"
+select "FA > 0.35" IN "CST"
+update shape BY LINE in "CC"

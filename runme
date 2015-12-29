@@ -1,0 +1,5 @@
+#!/bin/bash
+./LegiDTI -f ~/test.data
+
+# for clustered data
+#./LegiDTI -f ~/allfb_tagged.data

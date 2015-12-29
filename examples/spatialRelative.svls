@@ -1,0 +1,10 @@
+select "sagittal +5.5"
+select "axial +10.25"
+select "coronal -6.13"
+update color BY FA
+select "sagittal +15.25"
+update depth BY size WITH 0.1,10
+update default IN "CST"
+
+select "CTs"
+udate

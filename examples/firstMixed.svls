@@ -1,0 +1,4 @@
+select "FA >= 0.38" IN "ALL"
+select "FA < 0.23" IN "CG"
+select "sagittal +10.5"
+select "sagittal -20.5"

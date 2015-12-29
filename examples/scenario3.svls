@@ -1,0 +1,7 @@
+Select "ALL"
+Calculate NumFibers
+Calculate AvgFA
+Calculate AvgFA in "CST"
+Calculate NumFibers in "CC"
+Update reset IN "ALL"
+Select "FA > 0.2835" IN "CST"

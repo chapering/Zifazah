@@ -1,0 +1,4 @@
+Select "FA > 0.25" IN "CG"
+CALCULATE NumFibers IN "CG"
+select "CST"
+CALCULATE NumFibers IN "CST"

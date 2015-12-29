@@ -1,0 +1,4 @@
+Select "ILF" IN "model_s1"
+Select "FA >= 0.3" IN "model_s1"
+Select "fa in [0.3,0.8]" in "CST"
+

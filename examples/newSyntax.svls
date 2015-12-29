@@ -1,0 +1,6 @@
+Select "CST"
+Select "FA >= 0.2" 
+Select "ALL"
+Select "FA in [0.1,0.25]" IN "CC"
+Update color BY FA
+Update depth BY size With 0.1,20

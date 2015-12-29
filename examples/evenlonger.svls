@@ -1,0 +1,17 @@
+update color by fa
+update reset
+update default
+Select "CST" in "normal_s1"
+update depth by size with 0.1,10
+Select "FA in [0.1,0.2]" in "ALL"
+update color by FA
+update default
+update reset
+update depth by color
+update reset
+update default
+Select "CST"
+update reset
+UPDATE color by FA
+SELECT "FA < 0.2" in "CC"
+UPdate depth by value
